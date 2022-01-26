@@ -1,4 +1,6 @@
-# vue-vuetify
+<p align="center"><img src="public/capturas/logo.png"></p>
+
+<h1>Vue Vuetify CRUD</h1>
 
 ## Project setup
 ```
@@ -10,15 +12,8 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p align="center"><img src="public/capturas/captura1.png"></p>
+<br><br>
+<p align="center"><img src="public/capturas/captura2.png"></p>
+<br><br>
+<p align="center"><img src="public/capturas/captura3.png"></p>
