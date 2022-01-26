@@ -13,7 +13,7 @@ yarn serve
 ```
 
 <p align="center"><img src="public/capturas/captura1.png"></p>
-<br><br>
+<br>
 <p align="center"><img src="public/capturas/captura2.png"></p>
-<br><br>
+<br>
 <p align="center"><img src="public/capturas/captura3.png"></p>
